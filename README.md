@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End development
 - 🌱 I’m currently learning About languages like: JavaScript, C++
 - 💞️ I’m looking to collaborate on Technology Companies with my knowledge and skills. Aways seeking for learning.
-- 📫 How to reach me: My instagram: @euyagou_, Email: silveirayago62@gmail.com
+- 📫 How to reach me: My instagram: @euyagou_, Email: yagosilveira.software1@gmail.com
 - 😄 Pronouns: He/Him
 
 
