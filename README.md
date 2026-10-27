@@ -32,6 +32,10 @@
 
 ### 📫 Meus contatos
 
+<div align="center">
+
+### 📫 Meus contatos
+
 Você pode falar comigo pelo LinkedIn, pelo Instagram ou me mandar um e-mail. Ficarei feliz em conversar sobre novos projetos ou sobre projetos que estou envolvido.
 
 <br>
@@ -48,4 +52,4 @@ Você pode falar comigo pelo LinkedIn, pelo Instagram ou me mandar um e-mail. Fi
   <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" title="Instagram"/>
 </a>
 
-<br><br>
+</div>
